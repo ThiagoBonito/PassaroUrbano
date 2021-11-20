@@ -1,6 +1,6 @@
 # Pássaro Urbano
 <hr>
- <h3>Projeto desenvolvido através de vídeo aulas da plataforma Udemy, em que o projeto tem como finalidade ser um site paralelo ao "Peixe Urbano".</h3>
+ <h3>Projeto desenvolvido através de vídeo aulas da plataforma Udemy, em que o projeto tem como finalidade ser um clone ao sítio "Peixe Urbano".</h3>
 <hr>
  <h3>Tecnologias Utilizadas: Angular, TypeScript, Bootstrap, Jquery e Popper.</h3>
 <hr>
