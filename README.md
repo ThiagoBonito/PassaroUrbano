@@ -1,10 +1,10 @@
 # Pássaro Urbano
 <hr>
-# Projeto desenvolvido através de vídeo aulas da plataforma Udemy, em que o projeto tem como finalidade ser um site paralelo ao "Peixe Urbano".
+ Projeto desenvolvido através de vídeo aulas da plataforma Udemy, em que o projeto tem como finalidade ser um site paralelo ao "Peixe Urbano".
 <hr>
-# Tecnologias Utilizadas: Angular, TypeScript, Bootstrap, Jquery e Popper.
+ Tecnologias Utilizadas: Angular, TypeScript, Bootstrap, Jquery e Popper.
 <hr>
-# Prints do programa:
+ Prints do programa:
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
